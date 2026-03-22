@@ -12,7 +12,6 @@ Projeto desenvolvido para o desafio técnico da Fábrica de Software.
 - HTML
 - CSS
 - JavaScript
-- React
 - Next.js
 
 ## 📌 Autor
